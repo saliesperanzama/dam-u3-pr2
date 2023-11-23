@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400747962493",
+    "project_id": "abcd-c52ae",
+    "storage_bucket": "abcd-c52ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400747962493:android:eee862bc480b98ec21d114",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_practica2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArYA8r9rT4zfNqpT0OFX8CCzD_PvMJZ-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
